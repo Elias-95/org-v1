@@ -461,8 +461,8 @@ const EcosystemSection = () => {
     <StyledSection>
       <StyledItemRow>
         <span>
-          <StyledSectionHeader>{'UNISWAP ECOSYSTEM →'}</StyledSectionHeader>
-          <StyledSectionTitle>A growing network of DeFi Apps.</StyledSectionTitle>
+          <StyledSectionHeader>{'StartCy ECOSYSTEM →'}</StyledSectionHeader>
+          <StyledSectionTitle>A growing community network for DeFi Apps.</StyledSectionTitle>
           <StyledBodySubText style={{ marginRight: '48px' }}>
             Developers, traders, and liquidity providers participate together in a financial marketplace that is open
             and accessible to all.
@@ -470,7 +470,7 @@ const EcosystemSection = () => {
         </span>
         <AppsCard>
           <h1>200+</h1>
-          <p>DeFi Integrations</p>
+          <p>Users</p>
         </AppsCard>
       </StyledItemRow>
     </StyledSection>
@@ -501,10 +501,10 @@ const DeveloperSection = props => {
           </DeveloperCard>
           <GrantsCard>
             <StyledProductImage fadeIn={false} fluid={props.data.grants.childImageSharp.fluid} />
-            <StyledBodySubTitle>Apply for the Uniswap Developer Grants Program</StyledBodySubTitle>
+            <StyledBodySubTitle>Apply for the StartCy Developer Grants Program</StyledBodySubTitle>
             <p>
               Get paid to build the future of finance. Uniswap Governance offers grant funding for people building apps,
-              tools, and activities on the Uniswap Protocol.
+              tools, and activities on the StartCy Community.
             </p>
             <Button href="https://unigrants.org/" outlined>
               <p style={{ margin: 0 }}>Learn more ↗</p>
@@ -520,7 +520,7 @@ const DeveloperSection = props => {
             <span>
               <StyledSectionTitle>Governed by the community.</StyledSectionTitle>
               <StyledBodySubTitle style={{ fontSize: '20px' }}>
-                The Uniswap Protocol is governed by a decentralized community of UNI token holders and their delegates
+                The StartCy is governed by a decentralized community of SCC token holders and their delegates
                 who propose and vote on upgrades to the protocol.
               </StyledBodySubTitle>
             </span>
