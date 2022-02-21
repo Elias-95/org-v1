@@ -468,8 +468,8 @@ const EcosystemSection = () => {
           </StyledBodySubText>
         </span>
         <AppsCard>
-          <h1>200+</h1>
-          <p>Users</p>
+          <h1>COMMUNITY</h1>
+          <p>As an Ecosystem</p>
         </AppsCard>
       </StyledItemRow>
     </StyledSection>
