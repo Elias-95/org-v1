@@ -503,7 +503,7 @@ const DeveloperSection = props => {
             <StyledProductImage fadeIn={false} fluid={props.data.grants.childImageSharp.fluid} />
             <StyledBodySubTitle>Apply for the StartCy Developer Grants Program</StyledBodySubTitle>
             <p>
-              Get paid to build the future of finance. Uniswap Governance offers grant funding for people building apps,
+              Get paid to build the future of finance. StartCy Governance offers grant funding for people building apps,
               tools, and activities on the StartCy Community.
             </p>
             <Button href="https://unigrants.org/" outlined>

@@ -285,7 +285,7 @@ const About = props => {
           </Numbers>
           <StyledSectionFlex id="about" style={{ flexDirection: 'column' }}>
             <p>
-              Uniswap empowers developers, liquidity providers and traders to participate in a financial marketplace
+              StartCy empowers developers, liquidity providers and traders to participate in a financial marketplace
               that is open and accessible to all.
             </p>
             <p>We are committed to open source software and building on the decentralized web.</p>
@@ -309,7 +309,7 @@ const About = props => {
             <span>
               <a href="https://jobs.lever.co/Uniswap">
                 {' '}
-                <h3>Full list of roles available at Uniswap Labs</h3>
+                <h3>Full list of roles available at StartCy Labs</h3>
               </a>
             </span>
           </StyledSectionFlex>
@@ -321,7 +321,7 @@ const About = props => {
             </p>
 
             <p>
-              We encourage anyone facing issues with their wallet, transaction or Uniswap related question to join our
+              We encourage anyone facing issues with their wallet, transaction or StartCy related question to join our
               active community discord or explore the{' '}
               <ExternalLink href={'https://help.uniswap.org'}>help & tutorial</ExternalLink> site.
             </p>

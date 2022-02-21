@@ -108,7 +108,7 @@ module.exports = {
           {
             resolve: `gatsby-remark-twitter-cards`,
             options: {
-              title: 'Uniswap', // website title
+              title: 'StartCy', // website title
               separator: '|', // default
               author: '@Uniswap',
               background: require.resolve('./static/images/twitter_card_bg.jpg'), // path to 1200x630px file or hex code, defaults to black (#000000)
@@ -222,7 +222,7 @@ module.exports = {
             }
             `,
             output: '/rss.xml',
-            title: 'Uniswap Blog RSS Feed'
+            title: 'StartCy Blog RSS Feed'
           }
         ]
       }
