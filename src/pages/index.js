@@ -536,7 +536,7 @@ const DeveloperSection = props => {
                   Governance Forum <span style={{ fontSize: '16px' }}>↗</span>
                 </StyledBodySubTitle>
                 <p style={{ textAlign: 'left', margin: '0', opacity: '0.6', fontSize: '16px', fontWeight: 400 }}>
-                  Participate by proposing upgrades and discussing the future of the protocol with the Uniswap
+                  Participate by proposing upgrades and discussing the future of the protocol with the StartCy
                   community.
                 </p>
               </div>
@@ -558,7 +558,7 @@ const DeveloperSection = props => {
                   Governance Portal <span style={{ fontSize: '16px' }}>↗</span>
                 </StyledBodySubTitle>
                 <p style={{ textAlign: 'left', margin: '0', opacity: '0.6', fontSize: '16px', fontWeight: 400 }}>
-                  Vote on official Uniswap governance proposals and view past proposals.{' '}
+                  Vote on official StartCy governance proposals and view past proposals.{' '}
                 </p>
               </div>
             </Button>
