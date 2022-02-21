@@ -485,10 +485,9 @@ const DeveloperSection = props => {
           <DeveloperCard
             style={{ display: 'flex', flexDirection: 'column', justifyContent: 'flex-end', width: '100%' }}
           >
-            <StyledSectionTitle>Superpowers for DeFi developers.</StyledSectionTitle>
+            <StyledSectionTitle>The StartCy mission</StyledSectionTitle>
             <StyledBodySubTitle style={{ fontSize: '20px' }}>
-              Build DApps and tools on the largest crypto project on Ethereum. Get started with quick start guides,
-              protocol documentation, a Javascript SDK, and fully open source code.
+            The StartCy mission is to create the eBay for non-physical resources like ideas, talent and capital.
             </StyledBodySubTitle>
 
             <Button href="https://docs.uniswap.org/">
@@ -519,7 +518,7 @@ const DeveloperSection = props => {
             <span>
               <StyledSectionTitle>Governed by the community.</StyledSectionTitle>
               <StyledBodySubTitle style={{ fontSize: '20px' }}>
-                The StartCy is governed by a decentralized community of SCC token holders and their delegates
+                The StartCy Community is governed by a decentralized community of SCC token holders and their delegates
                 who propose and vote on upgrades to the protocol.
               </StyledBodySubTitle>
             </span>
