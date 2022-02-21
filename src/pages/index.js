@@ -313,7 +313,7 @@ const IndexPage = props => {
             <StyledPinkGlimmer /> Community
           </StyledBodyTitle>
           <StyledBodySubTitle>
-            {'StartCy is a community that provides non-zero-sum game culture system to help people exchange non-physical resources like ideas, talent and capital.'}
+            {'StartCy, a digital first community'}
           </StyledBodySubTitle>
 
           <StyledTradeLink
@@ -464,8 +464,7 @@ const EcosystemSection = () => {
           <StyledSectionHeader>{'StartCy ECOSYSTEM →'}</StyledSectionHeader>
           <StyledSectionTitle>A growing community network for DeFi Apps.</StyledSectionTitle>
           <StyledBodySubText style={{ marginRight: '48px' }}>
-            Developers, traders, and liquidity providers participate together in a financial marketplace that is open
-            and accessible to all.
+          StartCy is a community that provides non-zero-sum game culture system to help people exchange non-physical resources like ideas, talent and capital.
           </StyledBodySubText>
         </span>
         <AppsCard>
