@@ -309,7 +309,7 @@ const IndexPage = props => {
       <StyledBody>
         <StyledTitle>
           <StyledBodyTitle>
-            <span style={{ fontWeight: 200 }}>StatCy</span>
+            <span style={{ fontWeight: 200 }}>StartCy</span>
             <StyledPinkGlimmer /> Community
           </StyledBodyTitle>
           <StyledBodySubTitle>
