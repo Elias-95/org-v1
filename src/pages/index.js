@@ -304,16 +304,16 @@ const IndexPage = props => {
       <SEO
         title="Home"
         path={props.location.pathname}
-        description={'Swap, earn, and build on the leading decentralized crypto trading protocol.'}
+        description={'StartCy, a digital first community'}
       />
       <StyledBody>
         <StyledTitle>
           <StyledBodyTitle>
-            <span style={{ fontWeight: 200 }}>UNISWAP</span>
-            <StyledPinkGlimmer /> PROTOCOL
+            <span style={{ fontWeight: 200 }}>StatCy</span>
+            <StyledPinkGlimmer /> Community
           </StyledBodyTitle>
           <StyledBodySubTitle>
-            {'Swap, earn, and build on the leading decentralized crypto trading protocol.'}
+            {'StartCy is a community that provides non-zero-sum game culture system to help people exchange non-physical resources like ideas, talent and capital.'}
           </StyledBodySubTitle>
 
           <StyledTradeLink
@@ -341,7 +341,7 @@ const IndexPage = props => {
         <EcosystemSection data={data} props={props} />
         <HideSmall>
           <StyledSectionHeader>
-            <a href="https://info.uniswap.org/">{'PROTOCOL ANALYTICS →'}</a>
+            <a href="https://info.uniswap.org/">{'COMMUNITY ANALYTICS →'}</a>
           </StyledSectionHeader>
           <div
             style={{
