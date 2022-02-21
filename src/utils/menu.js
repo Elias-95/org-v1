@@ -3,10 +3,10 @@ const menu = [
     name: 'Developers',
     sublinks: [
       {
-        name: 'V3 Documentation',
+        name: 'StartCy Documentation',
         link: 'https://docs.uniswap.org/'
       },
-      { name: 'V3 Whitepaper', link: '/whitepaper-v3.pdf' },
+      { name: 'StartCy Whitepaper', link: '/whitepaper-v3.pdf' },
       { name: 'GitHub', link: 'https://github.com/Uniswap' },
       { name: 'Bug Bounty', link: '/bug-bounty' }
     ]
