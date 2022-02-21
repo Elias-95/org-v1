@@ -15,7 +15,7 @@ const menu = [
     name: 'Governance',
     sublinks: [
       {
-        name: 'UNI Token ',
+        name: 'SCC Token ',
         link: '/blog/uni'
       },
       { name: 'Governance Forum', link: 'https://gov.uniswap.org/' },

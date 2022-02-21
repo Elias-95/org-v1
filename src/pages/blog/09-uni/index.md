@@ -1,5 +1,5 @@
 ---
-title: 'Introducing UNI'
+title: 'Introducing SCC'
 date: '2020-09-16'
 author: '🦄 '
 featuredImage: ./banner.jpg

@@ -547,7 +547,7 @@ const DeveloperSection = props => {
                   Sybil <span style={{ fontSize: '16px' }}>↗</span>
                 </StyledBodySubTitle>
                 <p style={{ textAlign: 'left', margin: '0', opacity: '0.6', fontSize: '16px', fontWeight: 400 }}>
-                  Vote on offchain proposals with the Snapshot interface. Votes are weighted by the number of UNI
+                  Vote on offchain proposals with the Snapshot interface. Votes are weighted by the number of SCC
                   delegates.
                 </p>
               </div>
