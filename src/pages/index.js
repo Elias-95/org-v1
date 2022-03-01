@@ -489,10 +489,10 @@ const DeveloperSection = props => {
             </StyledBodySubTitle>
 
             <Button href="https://docs.uniswap.org/">
-              <p style={{ margin: 0 }}>
+            <StyledBodySubTitle style={{ fontSize: '20px' }}>
                 {' '}
                 <HideSmall>Developer</HideSmall> Documentation ↗
-              </p>
+                </StyledBodySubTitle>
             </Button>
             </StyledSectionHeader>
           <GrantsCard>
