@@ -488,12 +488,11 @@ const DeveloperSection = props => {
             The StartCy mission is to create the eBay for non-physical resources like ideas, talent and capital.
             </StyledBodySubTitle>
 
-            <Button href="https://docs.uniswap.org/">
-            <StyledBodySubTitle style={{ fontSize: '20px' }}>
-                {' '}
-                <HideSmall>Developer</HideSmall> Documentation ↗
-                </StyledBodySubTitle>
+         
+            <Button href="https://unigrants.org/" outlined>
+              <p style={{ margin: 0 }}>Developer Documentation ↗</p>
             </Button>
+            
             </StyledSectionHeader>
           <GrantsCard>
             <StyledProductImage fadeIn={false} fluid={props.data.grants.childImageSharp.fluid} />
