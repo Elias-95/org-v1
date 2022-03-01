@@ -54,7 +54,7 @@ const StyledTitle = styled.div`
   justify-content: flex-end;
   will-change: transform;
   align-items: flex-start;
-  height: 80vh;
+  height: 30vh;
   margin-bottom: 4rem;
 `
 
