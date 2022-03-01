@@ -482,9 +482,7 @@ const DeveloperSection = props => {
       <StyledSection>
         <StyledSectionHeader>{'DEVELOPERS →'}</StyledSectionHeader>
         <StyledItemRow>
-          <DeveloperCard
-            style={{ display: 'flex', flexDirection: 'column', justifyContent: 'flex-end', width: '100%' }}
-          >
+        <StyledSectionHeader>
             <StyledSectionTitle>The StartCy mission</StyledSectionTitle>
             <StyledBodySubTitle style={{ fontSize: '20px' }}>
             The StartCy mission is to create the eBay for non-physical resources like ideas, talent and capital.
@@ -496,7 +494,7 @@ const DeveloperSection = props => {
                 <HideSmall>Developer</HideSmall> Documentation ↗
               </p>
             </Button>
-          </DeveloperCard>
+            </StyledSectionHeader>
           <GrantsCard>
             <StyledProductImage fadeIn={false} fluid={props.data.grants.childImageSharp.fluid} />
             <StyledBodySubTitle>Apply for the StartCy Developer Grants Program</StyledBodySubTitle>
