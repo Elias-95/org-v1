@@ -514,7 +514,7 @@ const DeveloperSection = props => {
       <StyledSection>
         <StyledSectionHeader>{'GOVERNANCE →'}</StyledSectionHeader>
         <StyledItemRow>
-          <GovernanceCard style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
+        <StyledSectionHeader>
             <span>
               <StyledSectionTitle>Governed by the community.</StyledSectionTitle>
               <StyledBodySubTitle style={{ fontSize: '20px' }}>
@@ -526,7 +526,7 @@ const DeveloperSection = props => {
             <Button href="https://docs.uniswap.org/protocol/concepts/governance/guide-to-voting" outlined>
               <p style={{ margin: 0 }}>Read more </p>
             </Button>
-          </GovernanceCard>
+            </StyledSectionHeader>
           <StyledItemColumn style={{ display: 'flex', flexDirection: 'column' }}>
             <Button style={{ borderRadius: '20px' }} href="https://gov.uniswap.org" outlined>
               <div style={{ padding: '1rem' }}>
