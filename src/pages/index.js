@@ -319,7 +319,7 @@ const IndexPage = props => {
           <StyledTradeLink
             style={{
               background: `linear-gradient(128.17deg, #BD00FF -14.78%, #FF1F8A 110.05%)`,
-              color: 'white'
+              color: 'dark'
             }}
             target="_blank"
             href="https://app.uniswap.org/"
@@ -403,7 +403,7 @@ const StyledSection = styled.section`
 export const DeveloperCard = styled(StyledCard)`
   mix-blend-mode: ${({ isDark }) => (isDark ? 'overlay' : 'lighten')};
   background: url(${DevImage});
-  color: white;
+  color: dark;
   background-size: cover;
   background-repeat: no-repeat;
 `
@@ -517,10 +517,10 @@ const DeveloperSection = props => {
           <GovernanceCard style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
             <span>
               <StyledSectionTitle>Governed by the community.</StyledSectionTitle>
-              <StyledBodySubTitle style={{ fontSize: '20px' }}>
+              <p style={{ textAlign: 'left', margin: '0', opacity: '0.6', fontSize: '16px', fontWeight: 400 }}>
                 The StartCy Community is governed by a decentralized community of SCC token holders and their delegates
                 who propose and vote on upgrades to the protocol.
-              </StyledBodySubTitle>
+                </p>
             </span>
 
             <Button href="https://docs.uniswap.org/protocol/concepts/governance/guide-to-voting" outlined>
