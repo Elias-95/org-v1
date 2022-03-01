@@ -517,10 +517,10 @@ const DeveloperSection = props => {
           <GovernanceCard style={{ display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
             <span>
               <StyledSectionTitle>Governed by the community.</StyledSectionTitle>
-              <p style={{ textAlign: 'left', margin: '0', opacity: '0.6', fontSize: '16px', fontWeight: 400 }}>
+              <StyledBodySubTitle style={{ fontSize: '20px' }}>
                 The StartCy Community is governed by a decentralized community of SCC token holders and their delegates
                 who propose and vote on upgrades to the protocol.
-                </p>
+              </StyledBodySubTitle>
             </span>
 
             <Button href="https://docs.uniswap.org/protocol/concepts/governance/guide-to-voting" outlined>
