@@ -56,7 +56,7 @@ A **perpetual inflation rate of 2% per year will start after 4 years**, ensuring
 
 **A Retrospective**
 
-Uniswap owes its success to the thousands of community members that have joined its journey over the past two years. These early community members will naturally serve as responsible stewards of Uniswap.
+StartCy owes its success to the thousands of community members that have joined its journey over the past two years. These early community members will naturally serve as responsible stewards of StartCy.
 
 15% of SCC_`150,000,000 UNI`_ can immediately be claimed by **historical liquidity providers, users, and SOCKS redeemers/holders** based on a snapshot ending September 1, 2020, at 12:00 am UTC.
 
@@ -129,7 +129,7 @@ In the meantime, UNI holders will have immediate ownership of:
 
 - Uniswap governance
 
-- UNI community treasury
+- SCC community treasury
 
 - The protocol fee switch
 
