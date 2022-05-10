@@ -308,12 +308,6 @@ Just like described in the book “The Rainforest”, a tree in Amazon Forest wi
             <h2 style={{ width: '100%' }}>Jobs</h2>
             <p>We are looking for talented people to join our team!</p>
 
-            <span>
-              <a href="https://jobs.lever.co/Uniswap">
-                {' '}
-                <h3>Full list of roles available at StartCy Labs</h3>
-              </a>
-            </span>
           </StyledSectionFlex>
 
           <StyledSectionFlex id="contact" style={{ flexDirection: 'column' }}>
@@ -322,11 +316,7 @@ Just like described in the book “The Rainforest”, a tree in Amazon Forest wi
               To get in touch, please email <a href="mailto:contact@uniswap.org">contact@uniswap.org</a>
             </p>
 
-            <p>
-              We encourage anyone facing issues with their wallet, transaction or StartCy related question to join our
-              active community discord or explore the{' '}
-              <ExternalLink href={'https://help.uniswap.org'}>help & tutorial</ExternalLink> site.
-            </p>
+         
 
             <div style={{ display: 'flex', width: '100%', margin: 0 }}>
               <ExternalLink href={'https://discord.gg/FCfyBSbCU5'}>
@@ -343,9 +333,7 @@ Just like described in the book “The Rainforest”, a tree in Amazon Forest wi
 
           <StyledSectionFlex id="brand" style={{ flexDirection: 'column' }}>
             <h2 style={{ width: '100%' }}>Brand Assets</h2>
-            <p>
-              Download the logo and other brand assets samples <a href="/Uniswap_brand_assets.zip">here</a>.
-            </p>
+          
           </StyledSectionFlex>
         </span>
       </StyledAbout>
