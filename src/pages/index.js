@@ -489,7 +489,7 @@ const DeveloperSection = props => {
             </StyledBodySubTitle>
 
          
-            <Button href="https://unigrants.org/" outlined>
+            <Button href="" outlined>
               <p style={{ margin: 0 }}>Developer Documentation ↗</p>
             </Button>
             
@@ -501,7 +501,7 @@ const DeveloperSection = props => {
               Get paid to build the future of finance. StartCy Governance offers grant funding for people building apps,
               tools, and activities on the StartCy Community.
             </p>
-            <Button href="https://unigrants.org/" outlined>
+            <Button href="" outlined>
               <p style={{ margin: 0 }}>Learn more ↗</p>
             </Button>
           </GrantsCard>
@@ -520,7 +520,7 @@ const DeveloperSection = props => {
               </StyledBodySubTitle>
             </span>
 
-            <Button href="https://docs.uniswap.org/protocol/concepts/governance/guide-to-voting" outlined>
+            <Button href="" outlined>
               <p style={{ margin: 0 }}>Read more </p>
             </Button>
             </StyledSectionHeader>
@@ -536,7 +536,7 @@ const DeveloperSection = props => {
                 </p>
               </div>
             </Button>
-            <Button style={{ borderRadius: '20px' }} href="https://sybil.org/" outlined>
+            <Button style={{ borderRadius: '20px' }} href="" outlined>
               <div style={{ padding: '1rem' }}>
                 <StyledBodySubTitle style={{ marginBottom: '0.25rem' }}>
                   Sybil <span style={{ fontSize: '16px' }}>↗</span>
@@ -547,7 +547,7 @@ const DeveloperSection = props => {
                 </p>
               </div>
             </Button>
-            <Button style={{ width: '100%', borderRadius: '20px' }} href="https://app.uniswap.org/#/vote" outlined>
+            <Button style={{ width: '100%', borderRadius: '20px' }} href="" outlined>
               <div style={{ padding: '1rem' }}>
                 <StyledBodySubTitle style={{ marginBottom: '0.25rem' }}>
                   Governance Portal <span style={{ fontSize: '16px' }}>↗</span>
