@@ -17,9 +17,9 @@ const menu = [
         name: 'SCC Token ',
         link: '/blog/uni'
       },
-      { name: 'Governance Forum', link: 'https://gov.uniswap.org/' },
-      { name: 'Sybil (Delegates)', link: 'https://sybil.org/' },
-      { name: 'Voting Portal', link: '' },
+    //  { name: 'Governance Forum', link: 'https://gov.uniswap.org/' },
+      //{ name: 'Sybil (Delegates)', link: 'https://sybil.org/' },
+    //  { name: 'Voting Portal', link: '' },
       { name: 'Documentation', link: '/docs/v2/governance/overview' }
     ]
   },
@@ -46,14 +46,14 @@ const menu = [
         name: 'FAQ',
         link: '/faq'
       },
-      {
-        name: 'Help & Tutorials',
-        link: 'https://help.uniswap.org/'
-      },
-      {
-        name: 'Logo & Brand',
-        link: '/about#brand'
-      }
+      // {
+      //   name: 'Help & Tutorials',
+      //   link: 'https://help.uniswap.org/'
+      // },
+      // {
+      //   name: 'Logo & Brand',
+      //   link: '/about#brand'
+      // }
     ]
   }
 ]
