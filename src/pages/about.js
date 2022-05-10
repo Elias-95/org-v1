@@ -319,14 +319,14 @@ Just like described in the book “The Rainforest”, a tree in Amazon Forest wi
          
 
             <div style={{ display: 'flex', width: '100%', margin: 0 }}>
-              <ExternalLink href={'https://discord.gg/FCfyBSbCU5'}>
+              <ExternalLink href={'https://discord.gg/PAJKJcrD'}>
                 Discord <span style={{ fontSize: '11px' }}>↗</span>
               </ExternalLink>
-              <ExternalLink href={'https://twitter.com/Uniswap'}>
+              <ExternalLink href={'https://twitter.com/startcydao?s=11&t=SdrUlxvj9HtebuHtIT935Q'}>
                 Twitter <span style={{ fontSize: '11px' }}>↗</span>
               </ExternalLink>
-              <ExternalLink href={'https://www.reddit.com/r/Uniswap'}>
-                Reddit <span style={{ fontSize: '11px' }}>↗</span>
+              <ExternalLink href={'https://t.me/StartCy'}>
+                Telegram <span style={{ fontSize: '11px' }}>↗</span>
               </ExternalLink>
             </div>
           </StyledSectionFlex>
