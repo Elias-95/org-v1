@@ -260,7 +260,7 @@ const About = props => {
       <StyledAbout>
         <span style={{ marginTop: '5rem' }}>
           <Title style={{ paddingBottom: '4rem' }}>
-            Swap, earn, and build on the largest crypto trading protocol on Ethereum.
+          What is StartCy?
           </Title>
 
           <Numbers id="about" style={{ flexDirection: 'column' }}>
@@ -285,8 +285,10 @@ const About = props => {
           </Numbers>
           <StyledSectionFlex id="about" style={{ flexDirection: 'column' }}>
             <p>
-              StartCy empowers developers, liquidity providers and traders to participate in a financial marketplace
-              that is open and accessible to all.
+            We are the first decentralized startup community in Cyprus governed by our own DAO. We are a win-win culture system that brings together ideas, skills and capital. 
+Don’t get us wrong, we do like food and leisure, that’s why we usually host meetups, parties and other social events. All these events bring us together with other like-minded folks and give us the opportunity to talk about our passions and exchange our ideas in a face-to-face context.
+Just like described in the book “The Rainforest”, a tree in Amazon Forest will grow 10x times bigger than it will grow in the Sahara Desert, because the rainforest provides all the vital ingredients to that tree. StartCy community aims to make Cyprus a “rainforest for startups” and provide all the vital “ingredients” (i.e., skills, ideas, networking and capital) for these “startup trees” to grow!
+
             </p>
             <p>We are committed to open source software and building on the decentralized web.</p>
 
