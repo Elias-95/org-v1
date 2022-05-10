@@ -4,11 +4,10 @@ const menu = [
     sublinks: [
       {
         name: 'StartCy Documentation',
-        link: 'https://docs.uniswap.org/'
+        link: ''
       },
-      { name: 'StartCy Whitepaper', link: '/whitepaper-v3.pdf' },
-      { name: 'GitHub', link: 'https://github.com/Uniswap' },
-      { name: 'Bug Bounty', link: '/bug-bounty' }
+      { name: 'StartCy Charter', link: '/charter.pdf' },
+      { name: 'GitHub', link: 'https://github.com/StartCy' },
     ]
   },
   {
@@ -20,16 +19,16 @@ const menu = [
       },
       { name: 'Governance Forum', link: 'https://gov.uniswap.org/' },
       { name: 'Sybil (Delegates)', link: 'https://sybil.org/' },
-      { name: 'Voting Portal', link: 'https://app.uniswap.org/#/vote' },
+      { name: 'Voting Portal', link: '' },
       { name: 'Documentation', link: '/docs/v2/governance/overview' }
     ]
   },
   {
     name: 'Community',
     sublinks: [
-      { name: 'Discord', link: 'https://discord.gg/FCfyBSbCU5' },
-      { name: 'Twitter', link: 'https://twitter.com/Uniswap' },
-      { name: 'Reddit', link: 'https://www.reddit.com/r/Uniswap' }
+      { name: 'Discord', link: 'https://discord.gg/https://discord.gg/PAJKJcrD' },
+      { name: 'Twitter', link: 'https://twitter.com/startcydao?s=11&t=SdrUlxvj9HtebuHtIT935Q' },
+      { name: 'Telegram', link: 'https://t.me/StartCy' }
     ]
   },
   {
