@@ -143,7 +143,7 @@ const MenuToggle = styled.button`
 
 const StyledUni = styled(Uni)`
   path {
-    fill: ${({ theme }) => theme.textColor};
+   
   }
   margin: 0;
   width: 32px;
