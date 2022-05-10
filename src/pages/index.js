@@ -327,13 +327,13 @@ const IndexPage = props => {
             Launch App
           </StyledTradeLink>
           <StyledSocialRow>
-            <a href="https://twitter.com/uniswap/">
+            <a href="https://twitter.com/startcydao?s=11&t=SdrUlxvj9HtebuHtIT935Q">
               <StyledTwitter />
             </a>
-            <a href="https://github.com/Uniswap/">
+            <a href="https://github.com/StartCy">
               <StyledGithub />
             </a>
-            <a href="https://discord.gg/FCfyBSbCU5">
+            <a href="https://discord.gg/PAJKJcrD">
               <StyledDiscord />
             </a>
           </StyledSocialRow>
