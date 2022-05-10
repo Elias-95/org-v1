@@ -318,7 +318,7 @@ const IndexPage = props => {
 
           <StyledTradeLink
             style={{
-              background: `linear-gradient(128.17deg, #FCB813 -14.78%, #FF1F8A 110.05%)`,
+              background: `linear-gradient(128.17deg, #FCB813 -14.78%, #F6921E 110.05%)`,
               color: 'dark'
             }}
             target="_blank"
