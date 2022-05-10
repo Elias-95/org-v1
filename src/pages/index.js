@@ -322,9 +322,9 @@ const IndexPage = props => {
               color: 'dark'
             }}
             target="_blank"
-            href="https://app.uniswap.org/"
+            href=""
           >
-            Launch App
+            Join US
           </StyledTradeLink>
           <StyledSocialRow>
             <a href="https://twitter.com/startcydao?s=11&t=SdrUlxvj9HtebuHtIT935Q">
