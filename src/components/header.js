@@ -272,9 +272,9 @@ const Header = props => {
               color: 'white'
             }}
             target="_blank"
-            href="https://app.uniswap.org/"
+            href="https://forms.gle/XL47wX1q7Xd5RvkC7"
           >
-            Launch App
+            Join Us
           </StyledTradeLink>
         )}
       </StyledNav>
