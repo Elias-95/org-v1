@@ -322,7 +322,7 @@ const IndexPage = props => {
               color: 'dark'
             }}
             target="_blank"
-            href=""
+            href="https://forms.gle/XL47wX1q7Xd5RvkC7"
           >
             Join US
           </StyledTradeLink>
