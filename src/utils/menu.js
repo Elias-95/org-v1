@@ -20,7 +20,7 @@ const menu = [
     //  { name: 'Governance Forum', link: 'https://gov.uniswap.org/' },
       //{ name: 'Sybil (Delegates)', link: 'https://sybil.org/' },
     //  { name: 'Voting Portal', link: '' },
-      { name: 'Documentation', link: '/docs/v2/governance/overview' }
+      { name: 'Documentation', link: '/' }
     ]
   },
   {
