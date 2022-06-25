@@ -1,6 +1,6 @@
-# uniswap-org
+startcy.io
 
-Contains the source code for the [uniswap.org](https://uniswap.org) homepage.
+Contains the source code for the [startcy](https://startcy.io) homepage.
 
 ## Development
 

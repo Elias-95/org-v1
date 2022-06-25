@@ -1,6 +1,6 @@
 {
   "AWSTemplateFormatVersion": "2010-09-09",
-  "Description": "uniswap.org site",
+  "Description": "Startcy.io site",
   "Outputs": {
     "DeploymentAccessKeyId": {
       "Description": "Access key ID for deploying to the S3 bucket",
@@ -85,12 +85,12 @@
       "Type": "AWS::CertificateManager::Certificate",
       "Description": "The certificate used to secure the CloudFront distribution",
       "Properties": {
-        "DomainName": "uniswap.org",
+        "DomainName": "startcy.io",
         "ValidationMethod": "DNS",
         "Tags": [
           {
             "Key": "Name",
-            "Value": "uniswap.org"
+            "Value": "startcy"
           },
           {
             "Key": "Stack",
@@ -201,10 +201,10 @@
           }
         ],
         "DistributionConfig": {
-          "Comment": "uniswap.org",
+          "Comment": "startcy",
           "Enabled": true,
           "Aliases": [
-            "uniswap.org"
+            "startcy"
           ],
           "DefaultRootObject": "index.html",
           "HttpVersion": "http2",

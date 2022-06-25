@@ -8,10 +8,10 @@ module.exports = {
   siteMetadata: {
     title: `StartCy`,
     description: `Automated liquidity protocol on Ethereum`,
-    author: `@Uniswap`,
+    author: `@ninja`,
     menulinks: menu,
     siteUrl: `https://uniswap.org`,
-    repository: `https://github.com/Uniswap/uniswap-org`,
+    repository: `https://github.com/startcy/startcy`,
     commit: process.env.NOW_GITHUB_COMMIT_SHA || `master`
   },
   plugins: [
@@ -20,14 +20,14 @@ module.exports = {
       options: {
         bucketName: process.env.AWS_S3_BUCKET || 'NOT_SPECIFIED',
         protocol: 'https',
-        hostname: 'uniswap.org',
+        hostname: 'startcy',
         acl: null
       }
     },
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://uniswap.org`
+        siteUrl: `https://startcy`
       }
     },
     {
