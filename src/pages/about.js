@@ -313,7 +313,7 @@ Just like described in the book “The Rainforest”, a tree in Amazon Forest wi
           <StyledSectionFlex id="contact" style={{ flexDirection: 'column' }}>
             <h2 style={{ width: '100%' }}>Contact</h2>
             <p>
-              To get in touch, please email <a href="mailto:contact@uniswap.org">contact@uniswap.org</a>
+              To get in touch, please email <a href="mailto:contact@startcy.io">contact@startcy.io</a>
             </p>
 
          
